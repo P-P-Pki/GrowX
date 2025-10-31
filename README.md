@@ -1,11 +1,24 @@
+# 🌿 Interactive GrowX Demo
 
-  # Interactive GrowX Demo
+[![Made with Vite](https://img.shields.io/badge/Made%20with-Vite-646CFF.svg)](https://vitejs.dev/)
+[![Hackathon](https://img.shields.io/badge/Colosseum%20Hackathon-Cypherpunk-blue)]()
 
-  This is a code bundle for Interactive GrowX Demo. The original project is available at https://www.figma.com/design/BHQhRHfkNrwcu83hBCljMG/Interactive-GrowX-Demo.
+> Interactive on-chain houseplant experience 🌱  
+> Demo repository for **Colosseum Hackathon - Cypherpunk Project**
 
-  ## Running the code
+---
 
-  Run `npm i` to install the dependencies.
+## 🚀 Quick Start
 
-  Run `npm run dev` to start the development server.
-  
+```bash
+npm install
+npm run dev
+
+src/
+├── components/　　　　# React components
+├── assets/　　　　　　# images / icons
+└── main.tsx　　　　　# entry point
+
+---
+
+🪴 Built with ❤️ by the GrowX Team
